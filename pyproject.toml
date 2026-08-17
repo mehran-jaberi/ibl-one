@@ -1,0 +1,13 @@
+[project]
+name = "ibl-one"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "lazypredict>=0.3.0",
+    "matplotlib>=3.10.9",
+    "mne>=1.12.1",
+    "one-api>=3.5.2",
+    "seaborn>=0.13.2",
+]
