@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# Virtual environments / environment managers
+.venv/
+venv/
+env/
+
+# Python version (managed by uv)
+.python-version
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Generated figures
+fig*.png
+
+# Test / build artifacts
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
