@@ -1,5 +1,5 @@
 # ibl-one
-
+> **Work in progress — preliminary analysis**
 Work with **International Brain Laboratory (IBL)** neurophysiology data — download sessions via the ONE API, separate visual vs. somatosensory neurons, run exploratory analyses, and decode visual stimuli from population activity with scikit-learn.
 
 ## Overview
